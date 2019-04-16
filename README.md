@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://art-store-studio.herokuapp.com" height="100px">
+    <a href="https://art-store-studio.herokuapp.com" target="_blank">
+        <img src="https://res.cloudinary.com/hgiop3gjp/image/upload/logo.png" height="100px">
     </a>
     <h1 align="center">Art-Store Studio</h1>
     <br>
